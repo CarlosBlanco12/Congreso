@@ -1,3 +1,4 @@
+/*Anguiano Blanco Juan Carlos*/
 import { SnomService } from './../snom.service';
 import { Component, OnInit } from '@angular/core';
 
